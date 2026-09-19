@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+langchain
+langchain-mistralai
+langchain-huggingface
+sentence-transformers
+deepagents
+pandas
+numpy
+matplotlib
+seaborn
+python-dotenv
+python-multipart
+requests
+Pillow
